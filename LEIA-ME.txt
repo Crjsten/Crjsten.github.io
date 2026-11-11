@@ -4,7 +4,7 @@ PASTAS
 - index.html ... a página (não precisa mexer)
 - dados/ ....... planetas.json, faccoes.json e config.json
 - icones/ ...... um PNG por planeta: o desenho (estrela, planeta, nome, setas)
-- imagens/ ..... a imagem de cada planeta que aparece no painel
+- imagens/ ..... a imagem de cada planeta, mostrada na cena ao clicar no planeta
 - mapa/ ........ fundo.jpg e uma camada PNG por território
 
 COMO EDITAR
@@ -25,7 +25,7 @@ Dica: na página, Shift+clique em qualquer ponto do mapa mostra o x e o y daquel
 
 ADICIONAR UM PLANETA
 1. Desenhe o ícone e salve o PNG (fundo transparente) com o planeta no centro. Coloque em icones/.
-2. Opcional: coloque a imagem do painel em imagens/.
+2. Opcional: coloque a imagem do planeta em imagens/. Com imagem, ao clicar o mapa dá zoom com fade e a imagem aparece ao lado do painel. Sem imagem (campo "imagem" vazio ou arquivo inexistente), só dá o zoom.
 3. Copie um bloco de dados/planetas.json, mude "id" (único), "nome", "posicao" e os textos, e aponte "icone" e "imagem" para os arquivos.
 
 FACÇÕES (dados/faccoes.json)
@@ -41,3 +41,8 @@ BOTÃO "DADOS"
 - Copiar planetas.json atual: copia os dados como estão na tela (com o que foi digitado nos painéis).
 - Voltar aos dados originais: descarta o importado e as edições deste aparelho.
 Atenção: o que é digitado nos painéis fica salvo no navegador e tem prioridade sobre o JSON naquele aparelho.
+
+EFEITO AO CLICAR NO PLANETA
+- Com "imagem" preenchida: o mapa dá zoom em direção ao planeta enquanto some (fade out); em seguida a imagem aparece junto do painel de informações. Fechar (X ou Esc) volta ao mapa na posição anterior.
+- Sem imagem, ou se o arquivo não carregar: só o zoom até o planeta e o painel.
+Vale para qualquer planeta que você acrescentar.

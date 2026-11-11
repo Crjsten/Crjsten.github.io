@@ -87,7 +87,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/dreck.jpg",
+    "imagem": "",
     "wiki": "Dreck",
     "icone": "icones/dreck.png"
   },
@@ -104,7 +104,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/kanbhar.jpg",
+    "imagem": "",
     "wiki": "Kanbhar",
     "icone": "icones/kanbhar.png"
   },
@@ -192,7 +192,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/keplorr.jpg",
+    "imagem": "",
     "wiki": "Keplorr",
     "icone": "icones/keplorr.png"
   },
@@ -246,7 +246,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/chordelta-star-world-beta.jpg",
+    "imagem": "",
     "wiki": "Chordelta Star World Beta",
     "icone": "icones/chordelta-star-world-beta.png"
   },
@@ -283,7 +283,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/vilgaxia.jpg",
+    "imagem": "",
     "wiki": "Vilgaxia",
     "icone": "icones/vilgaxia.png"
   },
@@ -379,7 +379,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/gilli-perambulous-promenade.jpg",
+    "imagem": "",
     "wiki": "Gilli-Perambulous Promenade",
     "icone": "icones/gilli-perambulous-promenade.png"
   },
@@ -433,7 +433,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/monarca.jpg",
+    "imagem": "",
     "wiki": "Monarca",
     "icone": "icones/monarca.png"
   },
@@ -518,7 +518,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/hathor.jpg",
+    "imagem": "",
     "wiki": "Hathor",
     "icone": "icones/hathor.png"
   },
@@ -535,7 +535,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/jhambahj.jpg",
+    "imagem": "",
     "wiki": "J'Hambah'J",
     "icone": "icones/jhambahj.png"
   },
@@ -609,7 +609,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/myceto.jpg",
+    "imagem": "",
     "wiki": "Myceto",
     "icone": "icones/myceto.png"
   },
@@ -646,7 +646,7 @@
     "procurados": "",
     "missoes": "",
     "pontos_de_interesse": "",
-    "imagem": "imagens/recortes/viscosia.jpg",
+    "imagem": "",
     "wiki": "Viscosia",
     "icone": "icones/viscosia.png"
   },
@@ -665,17 +665,15 @@
       "Anur Khufos: planeta desértico, lar dos Thep Khufans, cheio de Corrodium, um metal roxo brilhante e radioativo que causa mutações.",
       "Anur Ormerow: lar dos Ormerowons, espécie parecida com zumbis. O nome é um anagrama de Romero, diretor de clássicos de zumbi.",
       "Anur Vladias: planeta abandonado e inabitável, antigo lar dos Vladats, hoje extintos.",
-      "Anur G’rrnay: lar dos Denskull sapiens, espécie parecida com esqueleto humano com poder de controlar a própria densidade.",
-      "Anur Millgan: lar dos Millgans, espécie anfíbia com poder de manipular água."
+      "Anur G’rrnay: planeta do sistema Anur, sem mais detalhes no wiki.",
+      "Anur Millgan: planeta do sistema Anur, sem mais detalhes no wiki."
     ],
     "especies": [
       "Ectonurites (Anur Phaetos)",
       "Transylianos (Anur Transyl)",
       "Thep Khufans (Anur Khufos)",
       "Ormerowons (Anur Ormerow)",
-      "Denskull sapiens (Anur G'rrnay)",
-      "Millgans (Anur Millgan)",
-      "Loboans (Luna Lobo)",
+      "Loboans (lua Luna Lobo)",
       "Vladats (extintos, de Anur Vladias e Anur Transyl)"
     ],
     "procurados": "",
