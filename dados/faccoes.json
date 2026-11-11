@@ -1,0 +1,14 @@
+{
+  "Encanadores": {
+    "cor": "#86e04a",
+    "territorio": "mapa/territorio-encanadores.png"
+  },
+  "Inkursianos": {
+    "cor": "#9a7ee6",
+    "territorio": "mapa/territorio-inkursianos.png"
+  },
+  "Skojares": {
+    "cor": "#f0524a",
+    "territorio": "mapa/territorio-skojares.png"
+  }
+}

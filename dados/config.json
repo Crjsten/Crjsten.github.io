@@ -1,0 +1,13 @@
+{
+  "fundo": "mapa/fundo.jpg",
+  "referencia": {
+    "largura": 1728,
+    "altura": 1834
+  },
+  "escala_icones": 6000,
+  "contorno": {
+    "cor": "#ffffff",
+    "largura": 6,
+    "opacidade": 0.85
+  }
+}

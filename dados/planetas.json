@@ -1,0 +1,705 @@
+[
+  {
+    "id": "galvan",
+    "nome": "Galvan",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 866,
+      "y": 301
+    },
+    "descricao": "Galvan Prime (Galvan Mark II depois de reconstruído) é um planeta minúsculo, mas altamente avançado, um dos mundos mais desenvolvidos cientificamente da galáxia, com arranha-céus em miniatura e vias ultrarrápidas. Foi invadido pelos Highbreed e depois reconstruído. Fica a cerca de 76.000 anos-luz da Terra. Sua lua, Galvan B, abriga os Mechamorfos Galvânicos.",
+    "especies": [
+      "Galvanianos",
+      "Omnivorazes (extintos, antigos habitantes)",
+      "Mecamorfos Galvânicos (na lua Galvan B)"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/galvan.jpg",
+    "wiki": "Galvan Prime",
+    "icone": "icones/galvan.png"
+  },
+  {
+    "id": "encephalonus-iv",
+    "nome": "Encephalonus IV",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1065,
+      "y": 366
+    },
+    "descricao": "Planeta de tempestades. Os antepassados dos habitantes esgotaram a eletricidade natural de Encephalonus I, II e III. Os atuais fazem o contrário: geram as tempestades elétricas do próprio mundo só de pensar com força.",
+    "especies": "Cerebrocrustaceanos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/encephalonus-iv.jpg",
+    "wiki": "Encephalonus IV",
+    "icone": "icones/encephalonus-iv.png"
+  },
+  {
+    "id": "sonorosia",
+    "nome": "Sonorosia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 898,
+      "y": 454
+    },
+    "descricao": "Lar dos Sonorosianos. Tem desfiladeiros e cânions imensos, com camadas coloridas de rocha. Só os Sonorosianos manipulam ondas sonoras naturalmente, mas outras criaturas usam as cavernas como câmaras de sussurro ou para gerar ecos de defesa.",
+    "especies": "Sonorosianos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/sonorosia.jpg",
+    "wiki": "Sonorosia",
+    "icone": "icones/sonorosia.png"
+  },
+  {
+    "id": "revonnah",
+    "nome": "Revonnah",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1125,
+      "y": 451
+    },
+    "descricao": "Mundo belo e imponente, com vários sóis. O relevo acidentado tem fazendas em terraços cortados nas montanhas, com silos e casas simples. É onde cresce a fruta Amber Ogia, e a tarefa mais empolgante é manter os Muroids longe dos silos de grãos.",
+    "especies": [
+      "Revonnahganderos",
+      "Muróides"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/revonnah.jpg",
+    "wiki": "Revonnah",
+    "icone": "icones/revonnah.png"
+  },
+  {
+    "id": "dreck",
+    "nome": "Dreck",
+    "faccao": "Skojares",
+    "posicao": {
+      "x": 836,
+      "y": 486
+    },
+    "descricao": "",
+    "especies": "",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/dreck.jpg",
+    "wiki": "Dreck",
+    "icone": "icones/dreck.png"
+  },
+  {
+    "id": "kanbhar",
+    "nome": "Kanbhar",
+    "faccao": "Skojares",
+    "posicao": {
+      "x": 886,
+      "y": 538
+    },
+    "descricao": "",
+    "especies": "",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/kanbhar.jpg",
+    "wiki": "Kanbhar",
+    "icone": "icones/kanbhar.png"
+  },
+  {
+    "id": "sulcus",
+    "nome": "Sulcus",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1128,
+      "y": 598
+    },
+    "descricao": "Planeta da Via Láctea em cuja órbita fica o Grande Cofre de Sulcus.",
+    "especies": "Sem espécie nativa registrada.",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/sulcus.jpg",
+    "wiki": "Sulcus",
+    "icone": "icones/sulcus.png"
+  },
+  {
+    "id": "petropia",
+    "nome": "Petropia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1169,
+      "y": 757
+    },
+    "descricao": "Planeta rochoso em forma de geodo, que lembra uma massa de cristais verticais pontiagudos, com formato de ampulheta e ao menos três satélites cristalinos. Os Petrosapiens construíram reinos subterrâneos sob a superfície. Seu sistema tem três sóis, e o planeta é muito maior que a Terra. É guardado por Sugilite.",
+    "especies": [
+      "Petrosapiens",
+      "Crystalsapiens"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/petropia.jpg",
+    "wiki": "Petropia",
+    "icone": "icones/petropia.png"
+  },
+  {
+    "id": "methanos",
+    "nome": "Methanos",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1351,
+      "y": 763
+    },
+    "descricao": "Lar dos Methanosianos. Planeta pantanoso. O nome é um trocadilho com metano.",
+    "especies": "Methanosianos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/methanos.jpg",
+    "wiki": "Methanos",
+    "icone": "icones/methanos.png"
+  },
+  {
+    "id": "flors-verdance",
+    "nome": "Flors Verdance",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1545,
+      "y": 783
+    },
+    "descricao": "Mundo exuberante de grama, árvores e outras plantas vivas. Por causa dos três sóis, o clima muda rápido e a vida segue ciclos sazonais. O nome vem de \"flora\" e \"verdant\" (verde).",
+    "especies": "Florauna",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/flors-verdance.jpg",
+    "wiki": "Flors Verdance",
+    "icone": "icones/flors-verdance.png"
+  },
+  {
+    "id": "keplorr",
+    "nome": "Keplorr",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1440,
+      "y": 869
+    },
+    "descricao": "Planeta constantemente orbitado por Galileanos. Embora seja o lar deles, nenhum Galileano jamais pisou nele: vivem em órbita, como elétrons em volta de um núcleo. Quanto mais Galileanos orbitam, maior a energia do sistema, até serem lançados ao espaço. Depois voltam por instinto para se recarregar.",
+    "especies": "Galileanos (em órbita)",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/keplorr.jpg",
+    "wiki": "Keplorr",
+    "icone": "icones/keplorr.png"
+  },
+  {
+    "id": "appoplexia",
+    "nome": "Appoplexia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1076,
+      "y": 857
+    },
+    "descricao": "Lar dos Appoplexianos. Tem climas frios. O Império Appoplexiano teve 99 comandantes supremos, sendo Vexx o 99º. Seu povo tem senso de vergonha e sempre usa roupas. Mantém uma trégua frágil com Lewoda.",
+    "especies": "Appoplexianos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/appoplexia.jpg",
+    "wiki": "Appoplexia",
+    "icone": "icones/appoplexia.png"
+  },
+  {
+    "id": "aranhascimia",
+    "nome": "Aranhascimia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1229,
+      "y": 936
+    },
+    "descricao": "Lar dos Arachnachimps. Vista do espaço, é verde-limão com manchas verdes mais escuras e grandes nuvens, e do chão o céu é roxo. Tem florestas tropicais com árvores gigantes e rochas suspensas em várias alturas, sempre escuras sob as copas. Grandes corpos de água abrigam os tubarões de raíz. Tem duas luas.",
+    "especies": [
+      "Arachnachimps",
+      "Tubarões de raíz (predadores)"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/aranhascimia.jpg",
+    "wiki": "Aranhascimmia",
+    "icone": "icones/aranhascimia.png"
+  },
+  {
+    "id": "chordelta-star-world-beta",
+    "nome": "Chordelta Star World Beta",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1331,
+      "y": 992
+    },
+    "descricao": "",
+    "especies": "Snidellerodontus",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/chordelta-star-world-beta.jpg",
+    "wiki": "Chordelta Star World Beta",
+    "icone": "icones/chordelta-star-world-beta.png"
+  },
+  {
+    "id": "lepidopterra",
+    "nome": "Lepidopterra",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1521,
+      "y": 968
+    },
+    "descricao": "Lar dos Lepidopterranos e dos Lagartóides. É um planeta pantanoso, em geral pacífico, com ecossistema avançado e plantas gigantes. Os Lepidopterranos vivem em complexos de colmeias gigantes, cada uma com sua rainha, e passam a vida colhendo as plantas. Os Lagartóides vivem em cavernas.",
+    "especies": [
+      "Lepidopterranos",
+      "Lagartóides"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/lepidopterra.jpg",
+    "wiki": "Lepidopterra",
+    "icone": "icones/lepidopterra.png"
+  },
+  {
+    "id": "vilgaxia",
+    "nome": "Vilgaxia",
+    "faccao": "",
+    "posicao": {
+      "x": 781,
+      "y": 933
+    },
+    "descricao": "Mundo natal dos Chimera Sui Generis, no sistema Shadow Realm. A cidade principal fica nas bordas de planícies e montanhas verde-pálidas, com um palácio-fortaleza onde vive Vilgax. Antes se chamava Murray e foi renomeado por Vilgax.",
+    "especies": "Chimera Sui Generis",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/vilgaxia.jpg",
+    "wiki": "Vilgaxia",
+    "icone": "icones/vilgaxia.png"
+  },
+  {
+    "id": "khoros",
+    "nome": "Khoros",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1043,
+      "y": 1048
+    },
+    "descricao": "Lar dos Tetramandos. Tem paisagem árida e plana por causa dos dois sóis, com areia cor de vinho cobrindo quase tudo, firme o bastante para andar e pousar naves e lisa o bastante para os Sandrippers nadarem nela. Há penhascos, vales e grandes predadores.",
+    "especies": [
+      "Tetramandos",
+      "Khoros Reptilianos",
+      "Sandrippers",
+      "Bharthacks"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/khoros.jpg",
+    "wiki": "Khoros",
+    "icone": "icones/khoros.png"
+  },
+  {
+    "id": "cafe-espacial",
+    "nome": "Café Espacial",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1153,
+      "y": 1053
+    },
+    "descricao": "",
+    "especies": "",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/cafe-espacial.jpg",
+    "wiki": "Café Espacial",
+    "icone": "icones/cafe-espacial.png"
+  },
+  {
+    "id": "pyros",
+    "nome": "Pyros",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1228,
+      "y": 1134
+    },
+    "descricao": "Sol totalmente funcional e mundo natal dos Pyronitas. Travou várias guerras contra Piscciss. Tem colunas infernais de fogo e rios de lava na tundra em chamas.",
+    "especies": [
+      "Pyronitas",
+      "Crabdozers (nativos que orbitam o sistema como asteroides)"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/pyros.jpg",
+    "wiki": "Pyros",
+    "icone": "icones/pyros.png"
+  },
+  {
+    "id": "piscciss",
+    "nome": "Piscciss",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1267,
+      "y": 1148
+    },
+    "descricao": "Planeta artificial formado por um oceano gigante, com terra firme apenas em rochas flutuantes e no núcleo (menos de 2% da massa). Um multiplicador artificial de gravidade no centro mantém a água unida. Quase todas as espécies são predadoras, e antes da série original o planeta travou várias guerras contra Pyros.",
+    "especies": [
+      "Piscciss Volanns (perto da superfície)",
+      "Piscciss Premanns"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/piscciss.jpg",
+    "wiki": "Piscciss",
+    "icone": "icones/piscciss.png"
+  },
+  {
+    "id": "gilli-perambulous-promenade",
+    "nome": "Gilli-Perambulous Promenade",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1215,
+      "y": 1155
+    },
+    "descricao": "Lar dos Ickthyperambuloids. Tem calçadas naturais, alguma vegetação e trilhas, e é famoso por ter mais calçadas que qualquer civilização conhecida, segundo os Registros Galácticos. O nome vem de \"gill\", \"perambulate\" e \"promenade\".",
+    "especies": "Ickthyperambuloids",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/gilli-perambulous-promenade.jpg",
+    "wiki": "Gilli-Perambulous Promenade",
+    "icone": "icones/gilli-perambulous-promenade.png"
+  },
+  {
+    "id": "aeropela",
+    "nome": "Aeropela",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 979,
+      "y": 1098
+    },
+    "descricao": "Lar dos Aerophibianos. É coberto de água, sem nenhum ponto de terra seca. Todos os habitantes evoluíram para viver sob o mar ou no céu, e dependem dos Aerophibianos para a comunicação entre os dois mundos. É descrito como um mundo aquoso, com chuva, neblina, umidade e furacões constantes.",
+    "especies": "Aerophibianos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/aeropela.jpg",
+    "wiki": "Aeropela",
+    "icone": "icones/aeropela.png"
+  },
+  {
+    "id": "terradino",
+    "nome": "Terradino",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 730,
+      "y": 1118
+    },
+    "descricao": "Mundo natal dos Vaxasaurianos e dos Kaosseffexx Ultimasaurias. É belo, montanhoso e exuberante, com muitas espécies animalescas. Visto do espaço, lembra a Terra, mas suas espécies não evoluíram para conviver em paz. O nome mistura \"terra\" e \"dino\".",
+    "especies": [
+      "Vaxasaurianos",
+      "Kaosseffexx Ultimasaurias (Tyranópode)"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/terradino.jpg",
+    "wiki": "Terradino",
+    "icone": "icones/terradino.png"
+  },
+  {
+    "id": "monarca",
+    "nome": "Monarca",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 979,
+      "y": 1173
+    },
+    "descricao": "",
+    "especies": "Churls",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/monarca.jpg",
+    "wiki": "Monarca",
+    "icone": "icones/monarca.png"
+  },
+  {
+    "id": "xnelli",
+    "nome": "X’Nelli",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1355,
+      "y": 1101
+    },
+    "descricao": "Lar dos Manzardills. Um planeta dividido em biomas bem definidos que mantém a mesma estação o ano todo devido a sua rotação. O planeta é habitado por 10 espécies de Manzardill, que acreditam que foram criados a imagem de cada uma das formas seu deus multi-elemental Manzardill.",
+    "especies": [
+      "Polar Manzardills",
+      "Talus Manzardills",
+      "Mire Manzardills",
+      "Tropic Manzardills",
+      "Coastal Manzardills",
+      "Submar Manzardills",
+      "Subter Manzardills",
+      "Fung Manzardills",
+      "Torrid Manzardills",
+      "Slag Manzardills"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/xnelli.jpg",
+    "wiki": "X'Nelli",
+    "icone": "icones/xnelli.png"
+  },
+  {
+    "id": "mikdlty",
+    "nome": "Mikd’lty",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1451,
+      "y": 1142
+    },
+    "descricao": "Planeta do Sistema Monceros, preso por maré ao sol: o lado diurno é fundido, a cerca de 1.982 °C, e o noturno fica a cerca de −196 °C. Só uma faixa estreita de uns 60 m no meio, a zona crepuscular, é habitável. Colonos Necrofriggianos vivem lá e guardam, no templo, um quarto do Mapa do Infinito.",
+    "especies": "Necrofriggianos (colonos)",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/mikdlty.jpg",
+    "wiki": "Mikd'lty",
+    "icone": "icones/mikdlty.png"
+  },
+  {
+    "id": "kylmyys",
+    "nome": "Kylmyys",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1468,
+      "y": 1147
+    },
+    "descricao": "Mundo gelado, lar dos Necrofriggianos e dos Psycholeopterranos. Coberto de gelo e neve por um evento cataclísmico, vive em inverno eterno. Os Necrofriggianos evoluíram para formas fantasmagóricas e intangíveis.",
+    "especies": [
+      "Necrofriggianos",
+      "Psycholeopterranos"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/kylmyys.jpg",
+    "wiki": "Kylmyys",
+    "icone": "icones/kylmyys.png"
+  },
+  {
+    "id": "hathor",
+    "nome": "Hathor",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1080,
+      "y": 1232
+    },
+    "descricao": "Lar dos Splixsons e dos Panuncianos. É parecido com a Terra, mas tem doze continentes e nenhuma lua. O nome vem da deusa egípcia Hathor.",
+    "especies": [
+      "Splixsons",
+      "Panuncianos"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/hathor.jpg",
+    "wiki": "Hathor",
+    "icone": "icones/hathor.png"
+  },
+  {
+    "id": "jhambahj",
+    "nome": "J’Hambah’J",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1384,
+      "y": 1268
+    },
+    "descricao": "",
+    "especies": "Roebekampus Multipede",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/jhambahj.jpg",
+    "wiki": "J'Hambah'J",
+    "icone": "icones/jhambahj.png"
+  },
+  {
+    "id": "arburia",
+    "nome": "Arburia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 779,
+      "y": 1255
+    },
+    "descricao": "Antes um mundo pacífico, tido como o planeta mais feliz da galáxia, com clima ideal, sol quente e cidades ligadas por milhares de pequenos túneis. Muitos o viam como destino de férias. Lar dos Pelarotas Arburianos, hoje funcionalmente extintos pela destruição do planeta.",
+    "especies": "Pelarotas Arburianos (extintos)",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/arburia.jpg",
+    "wiki": "Arburia",
+    "icone": "icones/arburia.png"
+  },
+  {
+    "id": "terra",
+    "nome": "Terra",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 882,
+      "y": 1303
+    },
+    "descricao": "Terra (Earth) é o lar dos humanos. Terceiro planeta do Sistema Solar, também abriga refugiados alienígenas, híbridos de humano e alienígena e muitas formas de vida animal.",
+    "especies": [
+      "Humanos",
+      "Criptídeos diversos"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/terra.jpg",
+    "wiki": "Earth",
+    "icone": "icones/terra.png"
+  },
+  {
+    "id": "kinet",
+    "nome": "Kinet",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 677,
+      "y": 1298
+    },
+    "descricao": "Lar dos Kineceleranos. É um mundo de violentas tempestades elétricas e de constante mudança. Orbita o sol e gira rápido, então tudo é acelerado: dias duram minutos e vidas se espalham por semanas.",
+    "especies": "Kineceleranos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/kinet.jpg",
+    "wiki": "Kinet",
+    "icone": "icones/kinet.png"
+  },
+  {
+    "id": "myceto",
+    "nome": "Myceto",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1043,
+      "y": 1369
+    },
+    "descricao": "Lua úmida, lar dos Protosts e dos Salta-Brejos mycetianos. Fica no mesmo sistema planetário de Vulpin. O nome vem de Mycetozoa, grupo de mixomicetos.",
+    "especies": [
+      "Protosts",
+      "Salta-Brejos Mycetianos"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/myceto.jpg",
+    "wiki": "Myceto",
+    "icone": "icones/myceto.png"
+  },
+  {
+    "id": "vulpin",
+    "nome": "Vulpin",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1016,
+      "y": 1372
+    },
+    "descricao": "Lar dos Vulpimancers e dos Vulpinic Tortugans. Planeta escuro na borda da galáxia, com o ecossistema envenenado por materiais perigosos despejados ali: meio colônia penal, meio depósito de lixo tóxico. Os Vulpimancers vivem em cavernas e usam o olfato para \"ver\". Fica no mesmo sistema de Myceto.",
+    "especies": [
+      "Vulpimancers",
+      "Vulpinic Tortugans"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/vulpin.jpg",
+    "wiki": "Vulpin",
+    "icone": "icones/vulpin.png"
+  },
+  {
+    "id": "viscosia",
+    "nome": "Viscosia",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1276,
+      "y": 1371
+    },
+    "descricao": "Planeta vulcânico coberto de rocha ígnea e novo lar dos Polymorphos, depois que o mundo original deles foi destruído. A paisagem muda sem parar, com lava saindo de fissuras, e a gravidade é menor que a da Terra.",
+    "especies": "Polymorphos",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/recortes/viscosia.jpg",
+    "wiki": "Viscosia",
+    "icone": "icones/viscosia.png"
+  },
+  {
+    "id": "anur",
+    "nome": "Anur",
+    "faccao": "",
+    "posicao": {
+      "x": 1587,
+      "y": 597
+    },
+    "descricao": [
+      "Anur (sistema): sistema escuro e sombrio da Via Láctea que separa a Zona Nula do espaço comum. Teias gigantes parecidas com teias de aranha ligam seus planetas e luas, e o sol é pequeno, por isso há pouca luz.",
+      "Anur Phaetos: lar dos Ectonurites, espécie fantasmagórica. Vive em escuridão perpétua e era governado pelo Alto Ecto-Lorde Zs’Skayr.",
+      "Anur Transyl: planeta mecanizado de estilo steampunk, lar dos Transylianos e, antes, dos Vladats. Parece costurado, com grandes vãos entre os continentes que deixam o núcleo à mostra. Tem uma lua, Luna Lobo.",
+      "Anur Khufos: planeta desértico, lar dos Thep Khufans, cheio de Corrodium, um metal roxo brilhante e radioativo que causa mutações.",
+      "Anur Ormerow: lar dos Ormerowons, espécie parecida com zumbis. O nome é um anagrama de Romero, diretor de clássicos de zumbi.",
+      "Anur Vladias: planeta abandonado e inabitável, antigo lar dos Vladats, hoje extintos.",
+      "Anur G’rrnay: lar dos Denskull sapiens, espécie parecida com esqueleto humano com poder de controlar a própria densidade.",
+      "Anur Millgan: lar dos Millgans, espécie anfíbia com poder de manipular água."
+    ],
+    "especies": [
+      "Ectonurites (Anur Phaetos)",
+      "Transylianos (Anur Transyl)",
+      "Thep Khufans (Anur Khufos)",
+      "Ormerowons (Anur Ormerow)",
+      "Denskull sapiens (Anur G'rrnay)",
+      "Millgans (Anur Millgan)",
+      "Loboans (Luna Lobo)",
+      "Vladats (extintos, de Anur Vladias e Anur Transyl)"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/anur.jpg",
+    "wiki": "Anur System",
+    "icone": "icones/anur.png"
+  },
+  {
+    "id": "incarcecon",
+    "nome": "Incarcecon",
+    "faccao": "",
+    "posicao": {
+      "x": 1556,
+      "y": 1432
+    },
+    "descricao": "Centro de detenção intergaláctico (Incarcecon Intergalactic Detention Center).",
+    "especies": "",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/incarcecon.jpg",
+    "wiki": "Incarcecon",
+    "icone": "icones/incarcecon.png"
+  }
+]
