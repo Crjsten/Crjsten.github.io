@@ -408,9 +408,10 @@
       "x": 730,
       "y": 1118
     },
-    "descricao": "Mundo natal dos Vaxasaurianos e dos Kaosseffexx Ultimasaurias. É belo, montanhoso e exuberante, com muitas espécies animalescas. Visto do espaço, lembra a Terra, mas suas espécies não evoluíram para conviver em paz. O nome mistura \"terra\" e \"dino\".",
+    "descricao": "Mundo natal dos Vaxasaurianos e dos Pturbossaurianos. É belo, montanhoso e exuberante, com muitas espécies animalescas. Visto do espaço, lembra a Terra, mas suas espécies não evoluíram para conviver em paz. O nome mistura \"terra\" e \"dino\".",
     "especies": [
       "Vaxasaurianos",
+      "Pturbossaurianos",
       "Kaosseffexx Ultimasaurias (Tyranópode)"
     ],
     "procurados": "",
@@ -665,14 +666,16 @@
       "Anur Khufos: planeta desértico, lar dos Thep Khufans, cheio de Corrodium, um metal roxo brilhante e radioativo que causa mutações.",
       "Anur Ormerow: lar dos Ormerowons, espécie parecida com zumbis. O nome é um anagrama de Romero, diretor de clássicos de zumbi.",
       "Anur Vladias: planeta abandonado e inabitável, antigo lar dos Vladats, hoje extintos.",
-      "Anur G’rrnay: planeta do sistema Anur, sem mais detalhes no wiki.",
-      "Anur Millgan: planeta do sistema Anur, sem mais detalhes no wiki."
+      "Anur G’rrnay: lar dos Denskull sapiens, seres que se parecem com esqueletos humanos e têm a habilidade de controlar sua densidade",
+      "Anur Millgan: planeta alagado, lar dos Millgans, criaturas anfíbias que possuem hidrocinese"
     ],
     "especies": [
       "Ectonurites (Anur Phaetos)",
       "Transylianos (Anur Transyl)",
       "Thep Khufans (Anur Khufos)",
       "Ormerowons (Anur Ormerow)",
+      "Denskull sapiens (Anur G'rrnay)",
+      "Millgans (Anur Millgan)",
       "Loboans (lua Luna Lobo)",
       "Vladats (extintos, de Anur Vladias e Anur Transyl)"
     ],

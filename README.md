@@ -1,3 +1,5 @@
+Totalmente vibe code, inclusive as instruções a seguir. Mapa interativo para um RPG no universo de Ben 10.
+
 MAPA DA VIA LÁCTEA - COMO EDITAR
 
 PASTAS
