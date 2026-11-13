@@ -269,6 +269,24 @@
     "imagem": "imagens/lepidopterra.jpg",
     "wiki": "Lepidopterra",
     "icone": "icones/lepidopterra.png"
+  },{
+    "id": "orthopterra",
+    "nome": "Orthopterra",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1544,
+      "y": 952
+    },
+    "descricao": "Lar dos Orthopterranos.",
+    "especies": [
+      "Orthopterranos"
+    ],
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "imagens/orthopterra.jpg",
+    "wiki": "",
+    "icone": "icones/orthopterra.png"
   },
   {
     "id": "vilgaxia",
