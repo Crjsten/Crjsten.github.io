@@ -1,0 +1,1 @@
+Coloque aqui as imagens dos procurados (PNG ou JPG) e aponte para elas no campo "procurados" de dados/planetas.json. Veja o README.md.

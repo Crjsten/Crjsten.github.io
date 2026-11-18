@@ -7,12 +7,31 @@ PASTAS
 - dados/ ....... planetas.json, faccoes.json e config.json
 - icones/ ...... um PNG por planeta: o desenho (estrela, planeta, nome, setas)
 - imagens/ ..... a imagem de cada planeta, mostrada na cena ao clicar no planeta
+- procurados/ .. as imagens dos procurados
 - mapa/ ........ fundo.jpg e uma camada PNG por território
+
+A página só exibe as informações; os textos não são editáveis nela. Tudo se altera nos arquivos da pasta dados.
 
 COMO EDITAR
 1. Abra dados/planetas.json em qualquer editor de texto, altere e salve.
 2. Recarregue a página.
 Campos de texto aceitam uma frase ("texto") ou uma lista de linhas (["linha 1", "linha 2"]).
+
+PROCURADOS (com imagem)
+O campo "procurados" aceita uma lista. Cada item pode ser um texto simples ou um bloco com nome, descrição e imagem:
+
+  "procurados": [
+    {
+      "nome": "Fulano",
+      "descricao": "Ladrão de naves. Visto pela última vez perto de Pyros.",
+      "imagem": "procurados/fulano.png"
+    },
+    "Beltrana, contrabandista"
+  ]
+
+- A imagem fica numa miniatura na guia "Missões e procurados"; ao clicar nela, abre ampliada (clique de novo ou Esc para fechar).
+- "descricao" e "imagem" são opcionais. Se o arquivo da imagem não existir, o procurado aparece só com o texto.
+- Coloque as imagens na pasta procurados/ (PNG ou JPG). O nome do arquivo é livre; só precisa bater com o caminho no JSON.
 
 POSIÇÃO ("posicao": x e y)
 x e y mandam em tudo: o círculo de seleção e o ícone ficam nesse ponto.
@@ -40,11 +59,4 @@ COMO USAR
 
 BOTÃO "DADOS"
 - Importar arquivos JSON: carrega seus JSON neste aparelho (reconhece planetas, facções e config pelo formato).
-- Copiar planetas.json atual: copia os dados como estão na tela (com o que foi digitado nos painéis).
-- Voltar aos dados originais: descarta o importado e as edições deste aparelho.
-Atenção: o que é digitado nos painéis fica salvo no navegador e tem prioridade sobre o JSON naquele aparelho.
-
-EFEITO AO CLICAR NO PLANETA
-- Com "imagem" preenchida: o mapa dá zoom em direção ao planeta enquanto some (fade out); em seguida a imagem aparece junto do painel de informações. Fechar (X ou Esc) volta ao mapa na posição anterior.
-- Sem imagem, ou se o arquivo não carregar: só o zoom até o planeta e o painel.
-Vale para qualquer planeta que você acrescentar.
+- Voltar aos dados originais: descarta o que foi importado neste aparelho.
