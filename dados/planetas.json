@@ -720,5 +720,22 @@
     "imagem": "imagens/incarcecon.jpg",
     "wiki": "Incarcecon",
     "icone": "icones/incarcecon.png"
+  },  
+  {
+    "id": "sightra",
+    "nome": "Sightra",
+    "faccao": "Encanadores",
+    "posicao": {
+      "x": 1254,
+      "y": 1281
+    },
+    "descricao": "A superfície de Sightra é mais parecida com gelatina do que com rochas. O planeta tem um sistema natural contra invasores que não estejam acostumados com sua constituição, que com um passo em falso são sugados e nunca mais vistos.",
+    "especies": "Optocoides",
+    "procurados": "",
+    "missoes": "",
+    "pontos_de_interesse": "",
+    "imagem": "",
+    "wiki": "Sightra",
+    "icone": "icones/sightra.png"
   }
 ]
